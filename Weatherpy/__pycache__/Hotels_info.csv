@@ -1,0 +1,11 @@
+,City,latitude,Longitude,Maxtemp,Humidity,Cloudiness,Windspeed,Country,Date,Hotel Name
+2,Lagoa,39.05,-27.98,20.67,77,0,5.24,PT,1595099944,Casa Das Faias
+81,Fomboni,-12.28,43.74,24.07,71,0,7.19,KM,1595099949,Auberge les abou
+102,Lüderitz,-26.65,15.16,22.0,17,0,1.5,,1595099950,LÜDERITZ NEST HOTEL
+113,San Quintín,30.48,-115.95,24.52,62,0,6.95,MX,1595099951,Old Mill Hotel
+114,Margate,51.38,1.39,21.11,69,0,1.79,GB,1595099951,Premier Inn Margate hotel
+118,Walvis Bay,-22.96,14.51,22.22,14,0,3.1,,1595099951,Oyster Box Guesthouse
+157,Arraial do Cabo,-22.97,-42.03,23.0,69,0,8.2,BR,1595099954,Pousada Porto Praia
+220,Poum,-20.23,164.02,21.36,71,0,4.96,NC,1595099961,Gîte kajeon
+242,Marsaxlokk,35.84,14.54,24.44,78,0,4.1,MT,1595099963,Water's Edge
+248,Vao,-22.67,167.48,20.74,75,0,6.03,NC,1595099963,Hotel Kou-Bugny
